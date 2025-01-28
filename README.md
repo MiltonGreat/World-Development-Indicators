@@ -56,6 +56,8 @@ Save Results:
 
 ### Notable Results
 
+![screenshot-localhost_8888-2025 01 28-10_38_42](https://github.com/user-attachments/assets/49496169-2dff-4846-871a-98bf9c29d70c)
+
 - Top 10 Countries by GDP Per Capita (2020): A list of the wealthiest countries by GDP per capita in 2020.
 - Life Expectancy Trends: A year-wise trend of average life expectancy globally.
 - Trade as a Percentage of GDP: Insights into which countries rely most on trade for their GDP.
@@ -69,4 +71,4 @@ Save Results:
 
 ### Source
 
-https://www.kaggle.com/datasets/david780514/world-bank-world-development-indicators-1960-2023
+Dataset: [World Development Indicators Dataset on Kaggle](https://www.kaggle.com/datasets/david780514/world-bank-world-development-indicators-1960-2023)
